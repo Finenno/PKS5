@@ -1,16 +1,28 @@
-# untitled
+# PKS5
+Отчет по практике №1
 
-A new Flutter project.
+Дисциплина: Программирование корпоративных систем
 
-## Getting Started
+Студент: Митькин Артём Андреевич
 
-This project is a starting point for a Flutter application.
+Группа: ЭФБО-07-22
 
-A few resources to get you started if this is your first Flutter project:
+Шифр: 22Т0238
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Преподаватель: Адышкин Сергей Сергеевич
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Семестр: 5 , 2024-2025 гг.
+
+Приложение на Flutter
+
+1. Загрузка расширений для Vs Code
+   
+1.1 Установка расширения Dart ![image](https://github.com/user-attachments/assets/770c2932-e050-42d3-ac43-26b1e7569beb)
+1.2 Установка расширения Flutter ![image](https://github.com/user-attachments/assets/973505a0-e32d-400a-a02f-beff8fedc671)
+
+2. Создание приложения
+Создать первое приложение на Flutter Для создания начального пприложения требуется нажать сочетание клавиш ctrl+shigt+P и в открывшемся меню выбрать Flutter: New Project
+![image](https://github.com/user-attachments/assets/12e5bf3e-170e-4979-97ba-c3da9e44e44a)
+
+3. Запуск приложения
+![image](https://github.com/user-attachments/assets/9d3658ae-9662-446b-9e0a-b5c87a12b788)
